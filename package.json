@@ -5,6 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
+    "polished": "^3.5.1",
     "sass-loader": "^8.0.2"
   },
   "devDependencies": {},
